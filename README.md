@@ -1,6 +1,6 @@
 # PlaySports, a Sports-Booking-System
 
-It is an application made with Java swing framework as part of the OOAD course (UE19CS353).
+This is a sports booking application made with Java swing framework as part of the OOAD course (UE19CS353).
 Made with the help of Apache Netbeans.
 
 Name, SRN:
